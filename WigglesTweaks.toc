@@ -1,0 +1,6 @@
+## Interface: 80200
+## Title: Wiggles Tweaks
+## Author: Felkl
+## Version: 1.0.0
+
+main.lua
